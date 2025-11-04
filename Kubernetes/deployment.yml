@@ -19,3 +19,6 @@ spec:
         image: trainerreyaz/netflix:latest
         ports:
         - containerPort: 80
+        env:
+        - name: OMDB_API_KEY
+          value: "7c4a482c"  # ← ADD THIS
