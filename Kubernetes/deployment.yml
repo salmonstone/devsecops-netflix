@@ -21,4 +21,4 @@ spec:
         - containerPort: 80
         env:
         - name: OMDB_API_KEY
-          value: "1a5a2c1a"  # ← ADD THIS
+          value: "6a20ea57"  # ← ADD THIS
