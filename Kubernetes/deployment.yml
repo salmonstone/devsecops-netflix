@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: netflix-app
-        image: trainerreyaz/netflix:latest
+        image: salmonstone/netflix:latest
         ports:
         - containerPort: 80
      
